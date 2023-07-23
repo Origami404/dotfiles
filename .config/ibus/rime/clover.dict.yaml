@@ -1,0 +1,22 @@
+
+name: clover
+version: "1"
+sort: by_weight
+
+import_tables:
+  - dists/clover.base
+  - dists/clover.phrase
+  - dists/moegirl
+  - dists/THUOCL_animal
+  - dists/THUOCL_caijing
+  - dists/THUOCL_car
+  - dists/THUOCL_chengyu
+  - dists/THUOCL_diming
+  - dists/THUOCL_food
+  - dists/THUOCL_IT
+  - dists/THUOCL_law
+  - dists/THUOCL_lishimingren
+  - dists/THUOCL_medical
+  - dists/THUOCL_poem
+  - dists/sogou_new_words
+
